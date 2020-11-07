@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node ./node_modules/nodemon/bin/nodemon.js ./bin/www",
     "serverstart": "npm start",
-    "heroku-postbuild": "cd client && npm install && npm start"
+    "heroku-postbuild": "cd client && npm install && npm run build"
   },
   "dependencies": {
     "babel-cli": "^6.26.0",
