@@ -40,15 +40,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yihongwang001/partyblog.git"
+    "url": "git+https://github.com/yihongwang001/project.git"
   },
   "keywords": [],
   "author": "Liudas&Yihong",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yihongwang001/partyblog/issues"
+    "url": "https://github.com/yihongwang001/project/issues"
   },
-  "homepage": "https://github.com/yihongwang001/partyblog#readme",
+  "homepage": "https://github.com/yihongwang001/project#readme",
   "description": "This website was create by Liudas Panavas and Yihong Wang for CS5610 Web Development at Northeastern (https://johnguerra.co/classes/webDevelopment_fall_2020/)",
   "engines": {
     "node": "v12.19.x"
